@@ -5,9 +5,9 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xubowen/vue-sentry.git"
+    "url": "git+https://github.com/xubowenjx/vue-sentry.git"
   },
-  "homepage": "https://github.com/xubowen/vue-sentry#readme",
+  "homepage": "https://github.com/xubowenjx/vue-sentry#readme",
   "keywords": [],
   "author": "xubowenjx",
   "license": "ISC",
