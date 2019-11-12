@@ -1,0 +1,18 @@
+{
+  "name": "@secrets/vue-sentry",
+  "version": "1.0.0",
+  "description": "config for errorHandler",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xubowen/vue-sentry.git"
+  },
+  "homepage": "https://github.com/xubowen/vue-sentry#readme",
+  "keywords": [],
+  "author": "xubowenjx",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/browser": "^5.8.0",
+    "@sentry/integrations": "^5.8.0"
+  }
+}
